@@ -2,5 +2,5 @@
 # Used with wstool, users can download and maintain packages through one line.
 - git:
     local-name: catkin_grpc
-    uri: https://github.com/CogRob/catkin_grpc.git
+    uri: https://github.com/abishekh/catkin_grpc.git
     version: master
